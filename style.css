@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+    height: auto;
+    overflow: hidden;
+}
+
+#btn {
+    padding: 5px 10px;
+    background: #000;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 60px;
+    cursor: pointer;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 0.9rem;
+}
+
+.form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f1f1f1;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
