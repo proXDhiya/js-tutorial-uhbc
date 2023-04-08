@@ -5,7 +5,7 @@ const btn = document.querySelector('#btn');
 
 function getValue() {
     if(input1.value === '' || input2.value === '')
-        alert('Please enter a value');
+        alert('One or more fields are empty, please fill them out');
     result.textContent = Number(input1.value) + Number(input2.value);
 }
 
